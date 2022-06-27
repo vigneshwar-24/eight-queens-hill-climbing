@@ -1,6 +1,7 @@
+### EXP.NO: 05
+### DATE : 23.05.2022
 # Hill Climbing Algorithm for Eight Queens Problem
 ## AIM
-
 To develop a code to solve eight queens problem using the hill-climbing algorithm.
 
 ## THEORY
@@ -28,6 +29,10 @@ Display the necessary states and the time taken.
 
 
 ## PROGRAM
+```python 
+# DEVELOPED BY: VIGNESHWAR S 
+# REGISTER NO: 212220230058
+```
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
@@ -195,11 +200,9 @@ for i in n:
 ## Solution Justification:
 When the state is larger, the longer it take to complete the search.The iteration will undergo untill the objective function reaches zero.
 
-
 ## Time Complexity Plot
 #### Plotting a graph for various value of N and time(seconds)
 ![Screenshot (222)](https://user-images.githubusercontent.com/75243072/169692447-ca244793-ed73-46f0-8af7-236f679532a3.png)
  
 ## RESULT:
 Hence, a code to solve eight queens problem using the hill-climbing algorithm has been implemented.
-
